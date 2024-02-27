@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI chatbots 
 - 🌱 I’m currently new to coding and learning different API functionality on chatbots 
 - 💞️ I’m looking to collaborate on any new open projects
-- 📫 you can reach me at arolkar.adi2004@gmail.com / https://www.linkedin.com/in/aditya-arolkar
+- 📫 you can reach me at arolkar.adi2004@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I know more about Formula 1 technicalities than JAVA
 
